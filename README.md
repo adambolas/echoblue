@@ -1,2 +1,0 @@
-# echoblue
-Trial 1
